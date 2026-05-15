@@ -58,7 +58,7 @@ FastAPI + SQLite audit history
 
 ---
 
-## X-Factor Features
+## Features
 
 ### 1. RPA-oriented design, not just ETL
 
