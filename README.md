@@ -205,22 +205,7 @@ For every run, the pipeline generates:
 | `*_quality_report.md` | Data-quality and automation-readiness report |
 | `*_summary.json` | Machine-readable run summary |
 
----
 
-## Sample Resume Bullet
-
-Built a production-style document-processing and validation pipeline that extracts records from CSV/PDF business files, applies schema and rule-based validation, detects duplicates, routes exceptions, and generates RPA-ready output tables with audit logs for downstream workflow automation.
-
----
-
-## Why This Project Is Strong for Recruiters
-
-This project demonstrates the kind of engineering judgment companies expect in AI automation, data engineering, and backend roles:
-
-- modular architecture instead of notebook code
-- validation and exception handling instead of blind automation
-- auditability and traceability
-- API-first design
 - Dockerized deployment
 - tests and CI
 - business-facing output artifacts
