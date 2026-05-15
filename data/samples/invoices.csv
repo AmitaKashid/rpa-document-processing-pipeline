@@ -1,0 +1,7 @@
+customer_id,invoice_id,customer_name,country,amount,currency,invoice_date,due_date,email
+CUST-001,INV-1001,Acme GmbH,DE,1200.50,EUR,2026-01-02,2026-01-30,finance@acme.de
+CUST-002,INV-1002,Nova Retail,DE,-44.00,EUR,2026-01-03,2026-01-20,accounts@nova.de
+,INV-1003,Missing Customer Ltd,GB,300.00,GBP,2026-01-04,2026-02-01,ops@missing.co.uk
+CUST-004,INV-1004,Globex Corporation,US,900.00,USD,2026-02-05,2026-01-10,not-an-email
+CUST-005,INV-1005,Acme Gmbh,DE,1200.50,EUR,2026-01-02,2026-01-30,finance@acme.de
+CUST-006,INV-1005,ACME GmbH,DE,1200.50,EUR,2026-01-02,2026-01-30,finance@acme.de
